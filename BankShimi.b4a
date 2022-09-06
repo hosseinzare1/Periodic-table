@@ -1,0 +1,1258 @@
+﻿Build1=Default,ir.Ea.BankShimi,Final
+File1=actinium.png
+File10=berkelium.png
+File100=technetium.png
+File101=tellurium.png
+File102=terbium.png
+File103=thallium.png
+File104=thorium.png
+File105=thulium.png
+File106=tin.png
+File107=titanium-crystal.png
+File108=tungsten-rod.png
+File109=uranium.png
+File11=beryllium.png
+File110=vanadium.png
+File111=xenon.png
+File112=ytterbium.png
+File113=yttrium.png
+File114=zinc.png
+File115=zirconium.png
+File12=bismuth.png
+File13=boron.png
+File14=bromine.png
+File15=cadmium.png
+File16=caesium.png
+File17=calcium.png
+File18=californium.png
+File19=carbon.png
+File2=aluminum.png
+File20=cerium.png
+File21=chlorine.png
+File22=chromium.png
+File23=cobalt.png
+File24=copper.png
+File25=curium.png
+File26=dysprosium.png
+File27=einsteinium.png
+File28=ElementHelp.bal
+File29=ElementInfoPanel.bal
+File3=americium.png
+File30=ElementLayout.bal
+File31=erbium.png
+File32=europium.png
+File33=fermium.png
+File34=fluorine.png
+File35=francium.png
+File36=gadolinium.png
+File37=gallium.png
+File38=germanium.png
+File39=gold.png
+File4=antimony.png
+File40=hafnium.png
+File41=helium.png
+File42=holmium.png
+File43=hydrogen.png
+File44=ic_contact.png
+File45=ic_exit.png
+File46=ic_help_outline_white_48pt_3x.png
+File47=indium.png
+File48=InfoTitr.bal
+File49=iodine.png
+File5=argon.png
+File50=iridium.png
+File51=iron.png
+File52=krypton.png
+File53=lanthanum.png
+File54=lawrencium.png
+File55=lead.png
+File56=lithium.png
+File57=lutetium.png
+File58=magnesium.png
+File59=main.bal
+File6=arsenic.png
+File60=manganese.png
+File61=mendelevium.png
+File62=mercury.png
+File63=molybdenum.png
+File64=neodymium.png
+File65=neon.png
+File66=neptunium.png
+File67=nickel.png
+File68=niobium.png
+File69=nitrogen.png
+File7=astatine.png
+File70=nobelium.png
+File71=osmium.png
+File72=oxygen.png
+File73=palladium.png
+File74=PeriodicLayout.bal
+File75=phosphorus.png
+File76=photoname.png
+File77=platinum.png
+File78=plutonium.png
+File79=polonium.png
+File8=BankShimiIcon.png
+File80=potassium.png
+File81=praseodymium.png
+File82=promethium.png
+File83=protactinium.png
+File84=radium.png
+File85=radon.png
+File86=rhenium.png
+File87=rhodium.png
+File88=rubidium.png
+File89=ruthenium.png
+File9=barium-2.png
+File90=rutherfordium.png
+File91=samarium.png
+File92=scandium.png
+File93=selenium.png
+File94=silicon.png
+File95=silver.png
+File96=sodium.png
+File97=strontium.png
+File98=sulfur.png
+File99=tantalum.png
+FileGroup1=elements
+FileGroup10=elements
+FileGroup100=elements
+FileGroup101=elements
+FileGroup102=elements
+FileGroup103=elements
+FileGroup104=elements
+FileGroup105=elements
+FileGroup106=elements
+FileGroup107=elements
+FileGroup108=elements
+FileGroup109=elements
+FileGroup11=elements
+FileGroup110=elements
+FileGroup111=elements
+FileGroup112=elements
+FileGroup113=elements
+FileGroup114=elements
+FileGroup115=elements
+FileGroup12=elements
+FileGroup13=elements
+FileGroup14=elements
+FileGroup15=elements
+FileGroup16=elements
+FileGroup17=elements
+FileGroup18=elements
+FileGroup19=elements
+FileGroup2=Default Group
+FileGroup20=elements
+FileGroup21=elements
+FileGroup22=elements
+FileGroup23=elements
+FileGroup24=elements
+FileGroup25=elements
+FileGroup26=elements
+FileGroup27=elements
+FileGroup28=Default Group
+FileGroup29=Default Group
+FileGroup3=elements
+FileGroup30=Default Group
+FileGroup31=elements
+FileGroup32=elements
+FileGroup33=elements
+FileGroup34=elements
+FileGroup35=elements
+FileGroup36=elements
+FileGroup37=elements
+FileGroup38=elements
+FileGroup39=elements
+FileGroup4=elements
+FileGroup40=elements
+FileGroup41=elements
+FileGroup42=elements
+FileGroup43=elements
+FileGroup44=Default Group
+FileGroup45=Default Group
+FileGroup46=Default Group
+FileGroup47=elements
+FileGroup48=Default Group
+FileGroup49=elements
+FileGroup5=elements
+FileGroup50=elements
+FileGroup51=elements
+FileGroup52=elements
+FileGroup53=elements
+FileGroup54=elements
+FileGroup55=elements
+FileGroup56=elements
+FileGroup57=elements
+FileGroup58=elements
+FileGroup59=Default Group
+FileGroup6=elements
+FileGroup60=elements
+FileGroup61=elements
+FileGroup62=elements
+FileGroup63=elements
+FileGroup64=elements
+FileGroup65=elements
+FileGroup66=elements
+FileGroup67=elements
+FileGroup68=elements
+FileGroup69=elements
+FileGroup7=elements
+FileGroup70=elements
+FileGroup71=elements
+FileGroup72=elements
+FileGroup73=elements
+FileGroup74=Default Group
+FileGroup75=elements
+FileGroup76=Default Group
+FileGroup77=elements
+FileGroup78=elements
+FileGroup79=elements
+FileGroup8=Default Group
+FileGroup80=elements
+FileGroup81=elements
+FileGroup82=elements
+FileGroup83=elements
+FileGroup84=elements
+FileGroup85=elements
+FileGroup86=elements
+FileGroup87=elements
+FileGroup88=elements
+FileGroup89=elements
+FileGroup9=elements
+FileGroup90=elements
+FileGroup91=elements
+FileGroup92=elements
+FileGroup93=elements
+FileGroup94=elements
+FileGroup95=elements
+FileGroup96=elements
+FileGroup97=elements
+FileGroup98=elements
+FileGroup99=elements
+Group=Default Group
+Library1=appcompat
+Library2=archiverpluszip
+Library3=core
+Library4=ime
+Library5=kbchangefontbyobject
+Library6=materialcolors
+Library7=slidingmenuwrapper
+Library8=sql
+Library9=materialdialogs
+ManifestCode=AddManifestText(~\n~<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="32"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~SetApplicationAttribute(android:theme, "@style/Esfandune")~\n~CreateResource(values, theme.xml,~\n~<resources>~\n~    <style name="Esfandune" parent="Theme.AppCompat.Light.NoActionBar">~\n~        <item name="colorPrimary">#00BCD4</item>~\n~        <item name="colorPrimaryDark">#0097A7</item>~\n~        <item name="colorAccent">#00897b</item>~\n~        <item name="windowNoTitle">true</item>~\n~        <item name="windowActionBar">false</item>~\n~    </style>~\n~</resources>~\n~)~\n~~\n~'AddApplicationText(<meta-data android:name="9Jew5f841DjrHIWLR9CFIA==" android:value="MY_APP_KEY" />)~\n~'CreateResourceFromFile(Macro, b4aCheshmak-3_4_3.Cheshmak)~\n~~\n~~\n~''~\n~'CreateResourceFromFile(Macro, PushPole.Standalone)~\n~'AddApplicationText(<meta-data android:name="com.pushpole.sdk.token" android:value="PUSHPOLE_437867742670"/>)~\n~'AddPermission(android.permission.ACCESS_COARSE_LOCATION)
+Module1=Starter
+NumberOfFiles=115
+NumberOfLibraries=9
+NumberOfModules=1
+Version=11.8
+@EndOfDesignText@
+#Region  Project Attributes 
+	#ApplicationLabel: بانک شیمی
+	#VersionCode: 1
+	#VersionName: 1.0
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: landscape
+	#CanInstallToExternalStorage: False
+#End Region
+
+#Region  Activity Attributes 
+	#FullScreen: true
+	#IncludeTitle: True
+#End Region
+#Extends: android.support.v7.app.AppCompatActivity
+#AdditionalJar : android-support-v7-recyclerview.jar
+#AdditionalRes : ..\res
+Sub Process_Globals
+	
+End Sub
+
+Sub Globals
+	'These global variables will be redeclared each time the activity is created.
+	'These variables can only be accessed from this module.
+	Dim InfoSlid As SlidingMenu
+	
+	Dim lim As IME
+	
+	Dim ChangeFont As KBChangeFontByObject
+	
+	Dim sql1 As SQL
+	Dim cursor1 As Cursor
+
+	Dim InfoSql As SQL
+	Dim InfoCursor As Cursor
+
+	Dim Left1,Top1,width1,Height1 As Double
+	Dim Group,Period As Double
+	Dim xS As Int = 100%x
+	Dim yS As Int = 100%y
+	
+	Dim widthHelp,HeightHelp As Double
+	
+	Private PeriodicPanle As Panel
+	Dim MultiPanel As Panel
+	Private PElementName As Label
+	Private PElementPanel As Panel
+	
+	
+	Dim Mcolor As MaterialColors
+	
+	Dim offsety As Int= 3%x
+	
+
+'	Private PanelSV As Panel
+	Private PAtomicNumber As ACEditText
+	Private PAtomicWeight As ACEditText
+	Private PNameEN As ACEditText
+	Private PNameFA As ACEditText
+	Private PSymbol As ACEditText
+	Private SVlist As ScrollView
+'	Private ToolBar As ACToolBarDark
+	
+	Private LabelC As Label
+	Private LabelT As Label
+	Dim MultiPanel2 As Panel
+	
+	Dim Multilabel As Label
+	
+'	Dim arrFA() As String
+'	Dim arrEN() As String
+	
+	Dim focus As String
+'	Private Panel1 As Panel
+'	Private Panel1m As Panel
+	Private PElementSymbol As Label
+	Private ToolBarInfo As Panel
+	
+	Dim DKhoroj As MaterialDialogBuilder
+	
+	Dim CDialog As MaterialDialogBuilder
+
+	Dim InfoDialog As MaterialDialogBuilder
+
+	Dim InfoHelpDialog As MaterialDialogBuilder
+	Dim InfoHelpDialog2 As MaterialDialogBuilder
+
+
+	Private ExitTool As Label
+	Private AboutTool As Label
+	Private InfoSlidBut As Label
+
+
+	Private ElementBut As Panel
+	Private PElementNumber As Label
+	
+	Private PGroupLabel As Label
+	Private PPriodLabel As Label
+	Private PBlockLabel As Label
+	Private ElectronConfigurationLabel As Label
+	
+	Dim sizefT As Int
+	Dim sizefN As Int
+	
+	Dim AtomicinfoEN() As String
+	
+	Dim PhysicalinfoEN() As String
+	
+	Dim TherminfoEN() As String
+	
+	Dim ReactioninfoEN() As String
+	
+	Dim OtherinfoEN() As String
+	
+	
+	Private PanelInfo As Panel
+	
+	Private HelpPanel As Panel
+	Private HelpLabel As Label
+	Private InfoBut As Label
+	
+'	Dim pushpol As PushPole
+	Private PanelTitr As Panel
+	Private InfoTitr As Label
+	Private InfoHelpLabel As Label
+	Private ElementImage As ImageView
+	Private PanelElement As Panel
+	
+	Dim fristT As Boolean
+	Dim fristT2 As Boolean
+	
+	Dim arc As ArchiverPlusZip
+End Sub
+
+Sub AddTitr(Titr As String , color As Int)
+	
+	
+	
+	
+	If Titr<>"مشخصات فیزیکی" Then
+		offsety=offsety+0.05*yS
+	End If
+	MultiPanel2.Initialize("p")
+	SVlist.Panel.AddView(MultiPanel2,(0.01*xS)    ,offsety,  48%x ,  (0.1*yS))
+	offsety=offsety+0.1*yS
+	MultiPanel2.LoadLayout("InfoTitr")
+	PanelTitr.color=color
+
+	InfoTitr.Text=Titr
+	InfoTitr.TextSize=sizefT
+End Sub
+
+Sub data
+	InfoHelpLabel.Visible=False
+	
+	SVlist.Panel.RemoveAllViews
+	offsety=0.03*yS
+	
+	AddTitr("مشخصات فیزیکی",Mcolor.md_lime_500)
+	
+	For i = 0 To 5
+		MultiPanel2.Initialize("p")
+		If cursor1.GetString(PhysicalinfoEN(i))<>Null And cursor1.GetString(PhysicalinfoEN(i))<>"" Then
+			SVlist.Panel.AddView(MultiPanel2,(0.01*xS)    ,offsety,  48%x ,  (0.1*yS))
+			offsety=offsety+0.107*yS
+			MultiPanel2.LoadLayout("ElementInfoPanel")
+			PanelInfo.Color=Mcolor.md_lime_400
+			
+			InfoCursor=InfoSql.ExecQuery("SELECT * FROM InfoTabel WHERE English LIKE '"&PhysicalinfoEN(i)&"%"&"'")
+			InfoCursor.Position=0
+			
+			LabelT.Text=InfoCursor.GetString("Persian")&":"
+			LabelC.Text=cursor1.GetString(PhysicalinfoEN(i))
+			
+			InfoBut.Tag=PhysicalinfoEN(i)
+			
+		End If
+		
+	Next
+	
+	AddTitr("مشخصات اتمی",Mcolor.md_blue_600)
+	
+	
+	For i = 0 To 11
+		MultiPanel2.Initialize("p")
+		If  cursor1.GetString(AtomicinfoEN(i))<>Null And cursor1.GetString(AtomicinfoEN(i))<>"" Then
+'			cursor1.GetString(AtomicinfoEN(i))<>""
+			SVlist.Panel.AddView(MultiPanel2,(0.01*xS)    ,offsety,  48%x ,  (0.1*yS))
+			offsety=offsety+0.107*yS
+			MultiPanel2.LoadLayout("ElementInfoPanel")
+			PanelInfo.Color=Mcolor.md_blue_400
+		
+			InfoCursor=InfoSql.ExecQuery("SELECT * FROM InfoTabel WHERE English LIKE '"&AtomicinfoEN(i)&"%"&"'")
+			InfoCursor.Position=0
+		
+			LabelT.Text=InfoCursor.GetString("Persian")&":"
+	
+			LabelC.Text=cursor1.GetString(AtomicinfoEN(i))
+			
+			InfoBut.Tag=AtomicinfoEN(i)
+			
+		End If
+		
+	Next
+	
+	AddTitr("واکنش های شیمیایی",Mcolor.md_green_600)
+	For i = 0 To 7
+		If cursor1.GetString(ReactioninfoEN(i))<>Null And cursor1.GetString(ReactioninfoEN(i))<>"" Then
+		
+			MultiPanel2.Initialize("p")
+			SVlist.Panel.AddView(MultiPanel2,(0.01*xS)    ,offsety,  48%x ,  (0.1*yS))
+			offsety=offsety+0.107*yS
+			MultiPanel2.LoadLayout("ElementInfoPanel")
+			PanelInfo.Color=Mcolor.md_green_400
+		
+			InfoCursor=InfoSql.ExecQuery("SELECT * FROM InfoTabel WHERE English LIKE '"&ReactioninfoEN(i)&"%"&"'")
+			InfoCursor.Position=0
+		
+			LabelT.Text=InfoCursor.GetString("Persian")&":"
+			LabelC.Text=cursor1.GetString(ReactioninfoEN(i))
+			
+			InfoBut.Tag=ReactioninfoEN(i)
+			
+		End If
+		
+	Next
+	
+	AddTitr("مشخصات ترمودینامیکی",Mcolor.md_cyan_600)
+	
+	For i = 0 To 7
+		MultiPanel2.Initialize("p")
+		If cursor1.GetString(TherminfoEN(i))<>Null And cursor1.GetString(TherminfoEN(i))<>"" Then
+		
+			SVlist.Panel.AddView(MultiPanel2,(0.01*xS)    ,offsety,  48%x ,  (0.1*yS))
+			offsety=offsety+0.107*yS
+			MultiPanel2.LoadLayout("ElementInfoPanel")
+			PanelInfo.Color=Mcolor.md_cyan_400
+		
+			InfoCursor=InfoSql.ExecQuery("SELECT * FROM InfoTabel WHERE English LIKE '"&TherminfoEN(i)&"%"&"'")
+			InfoCursor.Position=0
+		
+			LabelT.Text=InfoCursor.GetString("Persian")&":"
+			LabelC.Text=cursor1.GetString(TherminfoEN(i))
+		
+			InfoBut.Tag=TherminfoEN(i)
+		End If
+		
+	Next
+	
+	
+	AddTitr("سایر مشخصات",Mcolor.md_yellow_600)
+	
+	For i = 0 To 6
+		If  cursor1.GetString(OtherinfoEN(i))<>Null And cursor1.GetString(OtherinfoEN(i))<>"" Then
+		
+			MultiPanel2.Initialize("p")
+			SVlist.Panel.AddView(MultiPanel2,(0.01*xS)    ,offsety,  48%x ,  (0.1*yS))
+			offsety=offsety+0.107*yS
+			MultiPanel2.LoadLayout("ElementInfoPanel")
+			PanelInfo.Color=Mcolor.md_yellow_400
+		
+			InfoCursor=InfoSql.ExecQuery("SELECT * FROM InfoTabel WHERE English LIKE '"&OtherinfoEN(i)&"%"&"'")
+			InfoCursor.Position=0
+		
+			LabelT.Text=InfoCursor.GetString("Persian")&":"
+			LabelC.Text=cursor1.GetString(OtherinfoEN(i))
+			
+			InfoBut.Tag=OtherinfoEN(i)
+			
+		End If
+	Next
+
+'	offsety=offsety+0.10*yS
+	SVlist.Panel.Height=offsety
+	
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	
+	
+	
+
+	AtomicinfoEN = Array As String("Exact AtomicWeight","electronegativity (Pauling)","1st ionization potential (kJ/mol)","2nd ionization potential (kJ/mol)","3rd ionization potential (kJ/mol)", _
+	"Electron Affinity (kJ/mol)","common oxidation states","ions commonly formed", _
+	"atomic radius (Å) ","ionic radius (Å) ","covalent radius (Å) ","polarizability(Å^3)")
+	
+	PhysicalinfoEN = Array As String("density g/mL","atomic volume (cm^3/mol)","crystal structure","electrical conductivity (mho/cm) ","hardness(mohs)","color")
+	
+	TherminfoEN = Array As String("Melting Point, °C","Boiling Point, °C","State at Room Temp","specific heat (J/g K)","heat of fusion (kJ/mol)","heat of vaporization (kJ/mol)","thermal conductivity (W/(m K)) ","heat atomization(kJ/mol)")
+	
+	ReactioninfoEN = Array As String("reaction with air","reaction with water","reaction with 6M HCl","reaction with 15M HNO3","reaction with 6M NaOH","hydride(s)","oxide(s)","chloride(s)")
+	
+	OtherinfoEN = Array As String("CAS Registry No","mg/kg in Earths crust","mg/L in seawater","% human body mass","year discovered","toxic?","carcinogenic?")
+	
+	'Do not forget to load the layout file created with the visual designer. For example:
+	Activity.LoadLayout("PeriodicLayout")
+	
+	fristT=True
+	fristT2=True
+	
+'	pushpole.initialize()
+	
+	InfoSlid.Initialize("InfoSlid")
+	InfoSlid.Menu.LoadLayout("main")
+	InfoSlid.BehindOffset=50%x
+	InfoSlid.Mode=InfoSlid.RIGHT
+	sizef
+	
+	ChangeFont.FitToLabelSize(ExitTool)
+	ChangeFont.FitToLabelSize(AboutTool)
+	ChangeFont.FitToLabelSize(InfoSlidBut)
+	
+	
+	DKhoroj.Initialize("dkhoroj")
+	DKhoroj.Title("خروج").content("آیا میخواهید از برنامه خارج شوید؟")
+	DKhoroj.positiveText("بله").negativeText("خیر")
+'	DKhoroj.positiveColor(Mcolor.md_yellow_500).neutralColor(Mcolor.md_green_500)
+'	DKhoroj.canceledOnTouchOutside(True)
+	
+	
+	InfoHelpDialog.Initialize("InfoHelpDialog")
+	InfoHelpDialog.Title("راهنما").content("با انتخاب هر یک از مشخصه ها یا کمیت ها میتوانید توضیحاتی درباره آن مطالعه نمایید.")
+	InfoHelpDialog.positiveText("بستن").negativeText("دیگر نشان نده.")
+	InfoHelpDialog.canceledOnTouchOutside(True)
+	
+	InfoHelpDialog2.Initialize("InfoHelpDialog2")
+	InfoHelpDialog2.Title("راهنما").content("با انتخاب هریک از عناصر میتوانید مشخصات کامل آن را مطالعه کنید.")
+	InfoHelpDialog2.positiveText("بستن").negativeText("دیگر نشان نده.")
+	InfoHelpDialog2.canceledOnTouchOutside(True)
+'	اینه
+	If File.Exists(File.DirInternal,"ph.log")= False Then
+		File.Copy(File.DirAssets,"photoname.png",File.DirInternal,"ph.log")
+		arc.DecryptZipWithString("hossein@1381@zu")
+		arc.UnZip(File.Combine(File.DirInternal,"ph.log"), File.DirInternal,"Archiver")
+	End If
+' اینه
+	CDialog.Initialize("CDialog")
+	CDialog.title("بانک شیمی")
+	CDialog.content("کاری از حسین زرعی بارنجی "&CRLF&"ایمیل:Hosseiny625@gmail.com")
+
+	CDialog.positiveText("بستن")
+	
+	InfoDialog.Initialize("InfoDialog")
+
+	sql1.Initialize(File.DirInternal,"picname.hck", True)
+	cursor1=sql1.ExecQuery("SELECT * FROM Periodic")
+	
+
+	InfoSql.Initialize(File.DirInternal,"info.hck", True)
+	InfoCursor=InfoSql.ExecQuery("SELECT * FROM InfoTabel")
+	InfoCursor.Position=0
+	
+'	
+'	arrEN = Array As String("AtomicWeight","Melting Point, °C","Boiling Point, °C","common oxidation states","ions commonly formed","ar")
+'	arrFA = Array As String("جرم اتمی","نقطه ذوب","نقطه جوش","حالت های عدد اکسایش","یون ها","آرایش الکترونی")
+'	
+	width1=0.05*xS
+	Height1=0.09*yS
+	
+	widthHelp=0.065*xS
+	HeightHelp=0.08*yS
+	
+	For i = 1 To 120
+		cursor1.Position=i-1
+	
+		Group=cursor1.GetString("GroupP")
+		Period=(cursor1.GetString("PeriodP"))
+			
+		Left1=((Group-1)*width1)+(Group*0.004*xS)+(0.01*xS)
+		Top1=((Period-1)*Height1)+(Period*0.004*yS)+(0.11*yS)
+'		+(0.1*xS)
+		MultiPanel.Initialize("MultiPanel")
+		
+		PeriodicPanle.AddView(MultiPanel,Left1 ,Top1,width1,Height1)
+			
+		MultiPanel.LoadLayout("ElementLayout")
+
+		PElementSymbol.Text=cursor1.GetString("AtomicSymbol")
+		PElementName.Text=cursor1.GetString("PersianElementName")
+		ElementBut.Tag=cursor1.GetString("AtomicNumber")
+		
+		
+		PElementName.TextSize=sizefT-26
+		PElementSymbol.TextSize=sizefT-5
+		PElementNumber.TextSize=sizefT-20
+		InfoHelpLabel.TextSize=sizefT
+		
+		
+		If i < 119 Then
+			PElementNumber.Text=cursor1.GetString("AtomicNumber")
+		End If
+
+		Select cursor1.GetString("TypeB")
+			Case "1"
+				PElementPanel.Color=Mcolor.md_deep_purple_400
+			Case "2"
+				PElementPanel.Color=Mcolor.md_pink_400
+			Case "3"
+				PElementPanel.Color=Mcolor.md_cyan_400
+			Case "4"
+				PElementPanel.Color=Mcolor.md_blue_400
+			Case  "5"
+				PElementPanel.Color=Mcolor.md_deep_orange_400
+			Case  "6"
+				PElementPanel.Color=Mcolor.md_orange_400
+			Case "7"
+				PElementPanel.Color=Mcolor.md_purple_400
+			Case "8"
+				PElementPanel.Color=Mcolor.md_yellow_400
+			Case "9"
+				PElementPanel.Color=Mcolor.md_teal_400
+			Case "10"
+				PElementPanel.Color=Mcolor.md_lime_500
+		End Select
+	
+	Next
+
+
+	
+	For i = 121 To 130
+		cursor1.Position=i-1
+	
+		Group=cursor1.GetString("GroupP")
+		Period=(cursor1.GetString("PeriodP"))
+			
+		Left1=((Group-1)*widthHelp)+(Group*0.004*xS)+(0.01*xS)
+		Top1=((Period-1)*HeightHelp)+(Period*0.004*yS)+(0.11*yS)
+'		+(0.1*xS)
+		MultiPanel.Initialize("MultiPanel")
+		
+		PeriodicPanle.AddView(MultiPanel,Left1 ,Top1,widthHelp,HeightHelp)
+			
+		MultiPanel.LoadLayout("ElementHelp")
+
+		HelpLabel.Text=cursor1.GetString("PersianElementName")
+	
+		HelpLabel.TextSize=sizefT-10
+		'ChangeFont.FitToLabelSize(HelpLabel)
+		
+		
+		Select cursor1.GetString("TypeB")
+			Case "1"
+				HelpPanel.Color=Mcolor.md_deep_purple_400
+			Case "2"
+				HelpPanel.Color=Mcolor.md_pink_400
+			Case "3"
+				HelpPanel.Color=Mcolor.md_cyan_400
+			Case "4"
+				HelpPanel.Color=Mcolor.md_blue_400
+			Case  "5"
+				HelpPanel.Color=Mcolor.md_deep_orange_400
+			Case  "6"
+				HelpPanel.Color=Mcolor.md_orange_400
+			Case "7"
+				HelpPanel.Color=Mcolor.md_purple_400
+			Case "8"
+				HelpPanel.Color=Mcolor.md_yellow_400
+			Case "9"
+				HelpPanel.Color=Mcolor.md_teal_400
+			Case "10"
+				HelpPanel.Color=Mcolor.md_lime_500
+		End Select
+	
+	Next
+
+	InfoCursor=InfoSql.ExecQuery("SELECT * FROM InfoTabel WHERE English = 'close2'")
+	InfoCursor.Position=0
+	If fristT2=True And InfoCursor.GetString("Info")="false" Then
+		InfoHelpDialog2.show
+		fristT2=False
+	End If
+
+	InfoCursor=InfoSql.ExecQuery("SELECT * FROM InfoTabel")
+	InfoCursor.Position=0
+
+	lim.SetLengthFilter(PSymbol,2)
+	lim.SetLengthFilter(PAtomicNumber,3)
+	lim.SetCustomFilter(PNameEN,PNameEN.INPUT_TYPE_TEXT ,"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz")
+	lim.SetCustomFilter(PSymbol,PSymbol.INPUT_TYPE_TEXT ,"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz")
+'	lim.SetCustomFilter(PNameFA,PNameFA.INPUT_TYPE_TEXT ,"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz")
+End Sub
+
+Sub sizef
+	
+	PNameFA.Text="ژرمانیوم"
+	PAtomicNumber.Text="999"
+
+	ChangeFont.FitToLabelSize(PNameFA)
+	ChangeFont.FitToLabelSize(PAtomicNumber)
+
+	sizefT=PNameFA.TextSize
+	sizefN= PAtomicNumber.TextSize-9
+	
+	PAtomicNumber.Text=""
+	PNameFA.Text=""
+	
+'	ChangeFont.FitToLabelSize(PSymbol)
+'	PSymbol
+
+
+End Sub
+
+
+
+Sub change
+	cursor1.Position=0
+	Try
+		PanelElement.Left=0.05*xS
+		ElementImage.Visible=True
+		
+		ElementImage.Bitmap=LoadBitmap(File.DirAssets,cursor1.GetString("EnglishElementName")&".png")
+		
+	Catch
+		PanelElement.Left=0.15*xS
+		ElementImage.Visible=False
+	End Try
+	
+	
+	Select cursor1.GetString("TypeB")
+		Case "1"
+			PanelElement.Color=Mcolor.md_deep_purple_400
+		Case "2"
+			PanelElement.Color=Mcolor.md_pink_400
+		Case "3"
+			PanelElement.Color=Mcolor.md_cyan_400
+		Case "4"
+			PanelElement.Color=Mcolor.md_blue_400
+		Case  "5"
+			PanelElement.Color=Mcolor.md_deep_orange_400
+		Case  "6"
+			PanelElement.Color=Mcolor.md_orange_400
+		Case "7"
+			PanelElement.Color=Mcolor.md_purple_400
+		Case "8"
+			PanelElement.Color=Mcolor.md_yellow_400
+		Case "9"
+			PanelElement.Color=Mcolor.md_teal_400
+		Case "10"
+			PanelElement.Color=Mcolor.md_lime_500
+	End Select
+
+
+	PBlockLabel.Text="بلوک"& CRLF &cursor1.GetString("Block")
+	PPriodLabel.Text="دوره"& CRLF &cursor1.GetString("Period")
+	PGroupLabel.Text="گروه"& CRLF &cursor1.GetString("Group")
+	ElectronConfigurationLabel.Text=cursor1.GetString("ar")
+	
+	
+	ChangeFont.FitToLabelSize(PBlockLabel)
+	ChangeFont.FitToLabelSize(PPriodLabel)
+	ChangeFont.FitToLabelSize(PGroupLabel)
+	
+	
+	PNameFA.TextSize=sizefT-3
+	PNameEN.TextSize=sizefT-3
+	PAtomicNumber.TextSize=sizefN
+	PAtomicWeight.TextSize=sizefN-2
+	PSymbol.TextSize=sizefT+17
+	
+		
+	PNameFA.Text=cursor1.GetString("PersianElementName")
+	PNameEN.Text=cursor1.GetString("EnglishElementName")
+	PAtomicNumber.Text=cursor1.GetString("AtomicNumber")
+	PAtomicWeight.Text=cursor1.GetString("AtomicWeight")
+	PSymbol.Text=cursor1.GetString("AtomicSymbol")
+	
+End Sub
+
+Sub clear
+	
+	
+	Select focus
+		Case "PNameFA"
+'			PNameFA.Text=""
+			PNameEN.Text=""
+			PAtomicNumber.Text=""
+			PSymbol.Text=""
+		Case "PNameEN"
+			PNameFA.Text=""
+'			PNameEN.Text=""
+			PAtomicNumber.Text=""
+			PSymbol.Text=""
+		Case "PAtomicNumber"
+			PNameFA.Text=""
+			PNameEN.Text=""
+'			PAtomicNumber.Text=""
+			PSymbol.Text=""
+		Case "PSymbol"
+			PNameFA.Text=""
+			PNameEN.Text=""
+			PAtomicNumber.Text=""
+'			PSymbol.Text=""
+	End Select
+	
+'	PNameFA.Text=""
+'	PNameEN.Text=""
+'	PAtomicNumber.Text=""
+'	PSymbol.Text=""
+	
+	PAtomicWeight.Text=""
+	
+	
+	
+	PBlockLabel.Text=""
+	PPriodLabel.Text=""
+	PGroupLabel.Text=""
+	ElectronConfigurationLabel.Text=""
+	
+	SVlist.Panel.RemoveAllViews
+	ElementImage.Visible=False
+	InfoHelpLabel.Visible=True
+	PanelElement.Color=Colors.RGB(0,166,184)
+End Sub
+
+Sub But_Click
+'	MDialog.Show("","","","",Null)
+'	StartActivity(priodic)
+'	Log(xS)
+End Sub
+
+
+Sub PSymbol_TextChanged (Old As String, New As String)
+
+
+	If PSymbol.Text.Length>0 And Old<>New And focus="PSymbol"  Then
+'		clear
+		cursor1=sql1.ExecQuery("SELECT * FROM Periodic WHERE AtomicSymbol LIKE '"&PSymbol.Text&"'")
+		
+		If cursor1.RowCount <> 0 Then
+			cursor1.Position=0
+		
+			PNameFA.Text=cursor1.GetString("PersianElementName")
+			PNameEN.Text=cursor1.GetString("EnglishElementName")
+			PAtomicNumber.Text=cursor1.GetString("AtomicNumber")
+			PAtomicWeight.Text=cursor1.GetString("AtomicWeight")
+			
+'			cursor1.Position=0
+			Try
+				PanelElement.Left=0.05*xS
+				ElementImage.Visible=True
+		
+				ElementImage.Bitmap=LoadBitmap(File.DirAssets,cursor1.GetString("EnglishElementName")&".png")
+		
+			Catch
+				PanelElement.Left=0.15*xS
+				ElementImage.Visible=False
+			End Try
+	
+			Select cursor1.GetString("TypeB")
+				Case "1"
+					PanelElement.Color=Mcolor.md_deep_purple_400
+				Case "2"
+					PanelElement.Color=Mcolor.md_pink_400
+				Case "3"
+					PanelElement.Color=Mcolor.md_cyan_400
+				Case "4"
+					PanelElement.Color=Mcolor.md_blue_400
+				Case  "5"
+					PanelElement.Color=Mcolor.md_deep_orange_400
+				Case  "6"
+					PanelElement.Color=Mcolor.md_orange_400
+				Case "7"
+					PanelElement.Color=Mcolor.md_purple_400
+				Case "8"
+					PanelElement.Color=Mcolor.md_yellow_400
+				Case "9"
+					PanelElement.Color=Mcolor.md_teal_400
+				Case "10"
+					PanelElement.Color=Mcolor.md_lime_500
+			End Select
+
+
+			PBlockLabel.Text="بلوک"& CRLF &cursor1.GetString("Block")
+			PPriodLabel.Text="دوره"& CRLF &cursor1.GetString("Period")
+			PGroupLabel.Text="گروه"& CRLF &cursor1.GetString("Group")
+			ElectronConfigurationLabel.Text=cursor1.GetString("ar")
+	
+	
+			ChangeFont.FitToLabelSize(PBlockLabel)
+			ChangeFont.FitToLabelSize(PPriodLabel)
+			ChangeFont.FitToLabelSize(PGroupLabel)
+	
+	
+			PNameFA.TextSize=sizefT-3
+			PNameEN.TextSize=sizefT-3
+			PAtomicNumber.TextSize=sizefN
+			PAtomicWeight.TextSize=sizefN-2
+			PSymbol.TextSize=sizefT+17
+	
+'		PSymbol.Text=cursor1.GetString("AtomicSymbol")
+'		input.HideKeyboard
+			data
+		Else if cursor1.RowCount = 0 And PSymbol.Text.Length>1 Then
+			
+			ToastMessageShow("عنصر مورد نظر یافت نشد",False)
+			
+			clear
+		End If
+			
+			
+
+	End If
+End Sub
+
+
+
+Sub PNameEN_TextChanged (Old As String, New As String)
+	
+'	If PNameEN.Text.Length>2 And Old<>New And focus="PNameEN" Then
+'		cursor1=sql1.ExecQuery("SELECT * FROM Periodic WHERE EnglishElementName LIKE '"&PNameEN.Text&"%"&"'")
+'		
+'		If cursor1.RowCount <> 0 Then
+'			cursor1.Position=0
+'			change
+'			data
+'			
+'		Else if cursor1.RowCount = 0 And PSymbol.Text.Length>2 Then
+'			
+'			ToastMessageShow("عنصر مورد نظر یافت نشد",False)
+'			clear
+'		End If
+'			
+'		
+	''		PNameFA.Text=cursor1.GetString("PersianElementName")
+	''		PNameEN.Text=cursor1.GetString("EnglishElementName")
+	''		PAtomicNumber.Text=cursor1.GetString("AtomicNumber")
+	''		PAtomicWeight.Text=cursor1.GetString("AtomicWeight")
+	''		PSymbol.Text=cursor1.GetString("AtomicSymbol")
+	'
+	'
+'		
+'	End If
+End Sub
+
+Sub PNameFA_TextChanged (Old As String, New As String)
+	
+'	clear
+'	If PNameFA.Text.Length>2 And focus="PNameFA" And Old<>New Then
+'		cursor1=sql1.ExecQuery("SELECT * FROM Periodic WHERE PersianElementName LIKE '"&PNameFA.Text&"%"&"'")
+'		
+'		If cursor1.RowCount <> 0 Then
+'			cursor1.Position=0
+'			change
+'			data
+'			
+'		Else if cursor1.RowCount = 0 And PSymbol.Text.Length>2 Then
+'			
+'			ToastMessageShow("عنصر مورد نظر یافت نشد",False)
+'			clear
+	''		PNameFA.Text=cursor1.GetString("PersianElementName")
+	''		PNameEN.Text=cursor1.GetString("EnglishElementName")
+	''		PAtomicNumber.Text=cursor1.GetString("AtomicNumber")
+	''		PAtomicWeight.Text=cursor1.GetString("AtomicWeight")
+	''		PSymbol.Text=cursor1.GetString("AtomicSymbol")
+'		End If
+'		
+	''	پس از مشخص شدن نام کامل .برای فرار از پرش مکان نما کیبورد را  میبندیم
+'		'اگه نشد روی یه ادیت تکست فوکوس میکنیم
+'	
+'	End If
+	
+End Sub
+
+Sub PAtomicNumber_TextChanged (Old As String, New As String)
+	
+'	Sleep(1000)
+'	Dim n2 As Int = New
+	'Log("n="&New)
+	If focus="PAtomicNumber" And New<>"" Then
+		
+		If New<118 Then
+			
+			If New > 0 Then
+				cursor1=sql1.ExecQuery("SELECT * FROM Periodic WHERE AtomicNumber ="&PAtomicNumber.Text)
+				If cursor1.RowCount<>0 Then
+					cursor1.Position=0
+					
+					Log(New)
+					PNameFA.Text=cursor1.GetString("PersianElementName")
+					PNameEN.Text=cursor1.GetString("EnglishElementName")
+'		PAtomicNumber.Text=cursor1.GetString("AtomicNumber")
+					PAtomicWeight.Text=cursor1.GetString("AtomicWeight")
+					PSymbol.Text=cursor1.GetString("AtomicSymbol")
+					
+'					cursor1.Position=0
+					Try
+						PanelElement.Left=0.05*xS
+						ElementImage.Visible=True
+		
+						ElementImage.Bitmap=LoadBitmap(File.DirAssets,cursor1.GetString("EnglishElementName")&".png")
+		
+					Catch
+						PanelElement.Left=0.15*xS
+						ElementImage.Visible=False
+					End Try
+	
+					Select cursor1.GetString("TypeB")
+						Case "1"
+							PanelElement.Color=Mcolor.md_deep_purple_400
+						Case "2"
+							PanelElement.Color=Mcolor.md_pink_400
+						Case "3"
+							PanelElement.Color=Mcolor.md_cyan_400
+						Case "4"
+							PanelElement.Color=Mcolor.md_blue_400
+						Case  "5"
+							PanelElement.Color=Mcolor.md_deep_orange_400
+						Case  "6"
+							PanelElement.Color=Mcolor.md_orange_400
+						Case "7"
+							PanelElement.Color=Mcolor.md_purple_400
+						Case "8"
+							PanelElement.Color=Mcolor.md_yellow_400
+						Case "9"
+							PanelElement.Color=Mcolor.md_teal_400
+						Case "10"
+							PanelElement.Color=Mcolor.md_lime_500
+					End Select
+
+
+					PBlockLabel.Text="بلوک"& CRLF &cursor1.GetString("Block")
+					PPriodLabel.Text="دوره"& CRLF &cursor1.GetString("Period")
+					PGroupLabel.Text="گروه"& CRLF &cursor1.GetString("Group")
+					ElectronConfigurationLabel.Text=cursor1.GetString("ar")
+	
+	
+					ChangeFont.FitToLabelSize(PBlockLabel)
+					ChangeFont.FitToLabelSize(PPriodLabel)
+					ChangeFont.FitToLabelSize(PGroupLabel)
+	
+	
+					PNameFA.TextSize=sizefT-3
+					PNameEN.TextSize=sizefT-3
+					PAtomicNumber.TextSize=sizefN
+					PAtomicWeight.TextSize=sizefN-2
+					PSymbol.TextSize=sizefT+17
+	
+					
+				End If
+			End If
+				
+			
+
+		
+		Else
+'			PAtomicNumber.Text=Old
+			ToastMessageShow("عدد اتمی باید کمتر از 118 باشد.",False)
+			clear
+		End If
+			
+	End If
+	
+End Sub
+
+Sub PNameEN_FocusChanged (HasFocus As Boolean)
+	focus="PNameEN"
+End Sub
+
+Sub PNameFA_FocusChanged (HasFocus As Boolean)
+	focus="PNameFA"
+End Sub
+
+Sub PSymbol_FocusChanged (HasFocus As Boolean)
+	focus="PSymbol"
+End Sub
+
+Sub PAtomicWeight_FocusChanged (HasFocus As Boolean)
+	focus="PAtomicWeight"
+End Sub
+
+Sub PAtomicNumber_FocusChanged (HasFocus As Boolean)
+	focus="PAtomicNumber"
+End Sub
+
+Sub Label1_Click
+	cursor1=sql1.ExecQuery("SELECT * FROM Periodic")
+	cursor1.Position=Rnd(2,117)
+
+End Sub
+
+Sub PElementName_Click
+	Dim PElementSymbol As Label = Sender
+	InfoSlid.ShowMenu
+	Log(PElementSymbol.Text)
+End Sub
+
+
+Sub InfoSlidBut_Click
+	InfoSlid.ShowMenu
+End Sub
+
+
+
+Sub AboutTool_Click
+	CDialog.show
+End Sub
+
+Sub ExitTool_Click
+	DKhoroj.show
+End Sub
+
+Private Sub CDialog_onAny(action As String)
+	If action="POSITIVE" Then
+		Return True
+	End If
+End Sub
+
+Private Sub dkhoroj_onAny(action As String)
+	If action="POSITIVE" Then
+		ExitApplication
+	Else If action="NEGATIVE" Then
+		Return True
+	Else If action="NEUTRAL" Then
+		
+	End If
+	
+End Sub
+
+Private Sub InfoHelpDialog2_onAny(action As String)
+	If action="POSITIVE" Then
+		Return True
+	Else If action="NEGATIVE" Then
+		InfoSql.ExecNonQuery("UPDATE InfoTabel SET Info = 'true' WHERE English = 'close2'")
+	Else If action="NEUTRAL" Then
+		
+	End If
+End Sub
+
+Private Sub InfoHelpDialog_onAny(action As String)
+	If action="POSITIVE" Then
+		Return True
+	Else If action="NEGATIVE" Then
+		InfoSql.ExecNonQuery("UPDATE InfoTabel SET Info = 'true' WHERE English = 'close'")
+	Else If action="NEUTRAL" Then
+		
+	End If
+End Sub
+
+Sub ElementBut_Click
+	Dim ElementBut As Panel = Sender
+	
+	cursor1=sql1.ExecQuery("SELECT * FROM Periodic WHERE AtomicNumber LIKE '"&ElementBut.Tag&"'")
+	cursor1.Position=0
+	
+	If cursor1.GetString("AtomicNumber") <119 Then
+		change
+		data
+		InfoSlid.ShowMenu
+		
+		InfoCursor=InfoSql.ExecQuery("SELECT * FROM InfoTabel WHERE English = 'close'")
+		InfoCursor.Position=0
+		If fristT=True And InfoCursor.GetString("Info")="false" Then
+			InfoHelpDialog.show
+			fristT=False
+		End If
+		
+	End If
+'	Log(ElementBut.Tag)
+End Sub
+
+Sub PNameEN_EnterPressed
+'	If PNameEN.Text.Length>2 And Old<>New And focus="PNameEN" Then
+	cursor1=sql1.ExecQuery("SELECT * FROM Periodic WHERE EnglishElementName LIKE '"&PNameEN.Text&"%"&"'")
+		
+	If cursor1.RowCount <> 0 Then
+		cursor1.Position=0
+		change
+		data
+			
+	Else if cursor1.RowCount = 0  Then
+			
+		ToastMessageShow("عنصر مورد نظر یافت نشد",False)
+		clear
+	End If
+		
+'	End If
+End Sub
+
+Sub PNameFA_EnterPressed
+'	If PNameFA.Text.Length>2 And focus="PNameFA" And Old<>New Then
+	cursor1=sql1.ExecQuery("SELECT * FROM Periodic WHERE PersianElementName LIKE '"&PNameFA.Text&"%"&"'")
+		
+	If cursor1.RowCount <> 0 Then
+		cursor1.Position=0
+		change
+		data
+			
+	Else if cursor1.RowCount = 0 And PSymbol.Text.Length>2 Then
+			
+		ToastMessageShow("عنصر مورد نظر یافت نشد",False)
+		clear
+	End If
+		
+		
+'	پس از مشخص شدن نام کامل .برای فرار از پرش مکان نما کیبورد را  میبندیم
+	'اگه نشد روی یه ادیت تکست فوکوس میکنیم
+	
+'	End If
+End Sub
+
+Sub InfoBut_Click
+	Dim InfoBut As Label = Sender
+	InfoCursor=InfoSql.ExecQuery("SELECT * FROM InfoTabel WHERE English LIKE '"&InfoBut.tag&"%"&"'")
+	InfoCursor.Position=0
+	InfoDialog.title(InfoCursor.GetString("Persian"))
+	InfoDialog.content(InfoCursor.GetString("Info"))
+	InfoDialog.positiveText("بستن")
+
+	InfoDialog.show
+'	Log(InfoCursor.GetString("Info"))
+End Sub
